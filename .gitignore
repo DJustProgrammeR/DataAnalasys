@@ -207,3 +207,7 @@ marimo/_lsp/
 __marimo__/
 
 lab2/lab2_draft.ipynb
+lab2/new_anime_info.py
+lab2/counter.py
+lab2/filter_rating.py
+lab2/genres.py
